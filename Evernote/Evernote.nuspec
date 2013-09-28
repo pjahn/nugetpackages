@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Evernote5</id>
-    <title>Evernote</title>
+    <title>Evernote 5</title>
     <version>5.0.1.1188</version>
     <authors>Evernote Corporation</authors>
     <owners>Peter Jahn</owners>
