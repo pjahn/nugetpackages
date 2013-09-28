@@ -1,4 +1,4 @@
-﻿$packageName = 'Evernote'
+﻿$packageName = 'Evernote5'
 $url = 'http://evernote.com/download/get.php?file=Win'
 $url64 = $url
 $fileType = 'exe'
