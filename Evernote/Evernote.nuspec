@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Evernote</id>
+    <id>Evernote5</id>
     <title>Evernote</title>
     <version>5.0.1.1188</version>
     <authors>Evernote Corporation</authors>
