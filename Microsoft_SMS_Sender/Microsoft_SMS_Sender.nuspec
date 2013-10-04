@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft_SMS_Sender</id>
+    <title>Microsoft SMS Sender</title>
+    <version>1.0</version>
+    <authors>Microsoft</authors>
+    <owners>Peter Jahn</owners>
+    <summary>Microsoft SMS Sender</summary>
+    <description>SMS Sender is an add-on for Microsoft Windows XP that will create and send SMS (text messages) by using your GSM cellular phone. It also allows the use of all characters from international alphabets.</description>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=5552</projectUrl>
+    <tags>Microsoft_SMS_Sender admin</tags>
+    <copyright>©2013 Microsoft</copyright>
+    <licenseUrl>http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Microsoft_SMS_Sender/Microsoft_SMS_Sender.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
