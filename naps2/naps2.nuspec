@@ -3,7 +3,7 @@
   <metadata>
     <id>naps2</id>
     <title>NAPS2 (Not Another PDF Scanner 2)</title>
-    <version>2.6.2</version>
+    <version>2.6.3</version>
     <authors>Ben Olden-Cooligan</authors>
     <owners>Peter Jahn</owners>
     <summary>Scan documents to PDF and other file types, as simply as possible.</summary>
