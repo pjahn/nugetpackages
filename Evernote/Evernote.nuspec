@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Evernote5</id>
-    <title>Evernote 5</title>
-    <version>5.0.1.1188</version>
+    <id>Evernote</id>
+    <title>Evernote</title>
+    <version>5.4.1.3962</version>
     <authors>Evernote Corporation</authors>
     <owners>Peter Jahn</owners>
     <summary>Evernote</summary>
     <description>Evernote makes it easy to remember things big and small from your everyday life using your computer, phone, tablet and the web.</description>
     <projectUrl>http://evernote.com/evernote/</projectUrl>
     <tags>Evernote notes</tags>
-    <copyright>Copyright 2013 Evernote Corporation</copyright>
+    <copyright>Copyright 2014 Evernote Corporation</copyright>
     <licenseUrl>http://evernote.com/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Evernote/Evernote.png</iconUrl>
-	<releaseNotes>http://evernote.com/evernote/whats_new/windows/</releaseNotes>
+	<releaseNotes></releaseNotes>
   </metadata>
 </package>

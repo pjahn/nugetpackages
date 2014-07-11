@@ -3,14 +3,14 @@
 	<metadata>
 		<id>vmwareplayer</id>
 		<title>VMware Player</title>
-		<version>6.0.1</version>
+		<version>6.0.3</version>
 		<authors>VMware Inc.</authors>
 		<owners>Peter Jahn</owners>
 		<summary>VMware Player - Create and run virtual machines</summary>
 		<description>VMware Player Plus enables users to easily create and run virtual machines on a Windows or Linux PC. VMware Player Plus can also run virtual machines created by VMware Workstation, VMware Fusion, VMware Fusion Professional, and VMware vSphere. - See more at: https://www.vmware.com/products/player/faqs.html#sthash.X5OAqZiU.dpuf</description>
 		<projectUrl>http://www.vmware.com/products/player/</projectUrl>
 		<tags>virtualization vmware desktop admin</tags>
-		<copyright>Copyright © 2013 VMware, Inc. All rights reserved.</copyright>
+		<copyright>Copyright © 2014 VMware, Inc. All rights reserved.</copyright>
 		<licenseUrl>http://www.vmware.com/download/eula/universal_eula.html</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>https://raw.github.com/pjahn/nugetpackages/master/vmwareplayer/vmwareplayer.png</iconUrl>
