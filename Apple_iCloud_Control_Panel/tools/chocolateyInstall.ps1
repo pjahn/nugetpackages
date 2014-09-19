@@ -7,28 +7,28 @@ $filePath = "$env:TEMP\chocolatey\$packageName"
 $fileFullPath = "$filePath\$packageName_Install.exe"
 
 try {
-    if (-not (Test-Path $filePath)) {
-        New-Item -ItemType directory -Path $filePath
-    }
+	if (-not (Test-Path $filePath)) {
+		New-Item -ItemType directory -Path $filePath
+	}
 
-    Get-ChocolateyWebFile $packageName $fileFullPath $url $url64
+	Get-ChocolateyWebFile $packageName $fileFullPath $url $url64
 
-    Start-Process "7za" -ArgumentList "x -o`"$filePath`" -y `"$fileFullPath`"" -Wait
+	Start-Process "7za" -ArgumentList "x -o`"$filePath`" -y `"$fileFullPath`"" -Wait
 
-    $processor = Get-WmiObject Win32_Processor
-    $is64bit = $processor.AddressWidth -eq 64
+	$processor = Get-WmiObject Win32_Processor
+	$is64bit = $processor.AddressWidth -eq 64
 
-    $packageName = 'bonjour'
-    if ($is64bit) {$file = "$filePath\Bonjour64.msi"} else {$file = "$filePath\Bonjour.msi"}
-    Install-ChocolateyInstallPackage $packageName $fileType $silentArgs $file	
+	$packageName = 'bonjour'
+	if ($is64bit) {$file = "$filePath\Bonjour64.msi"} else {$file = "$filePath\Bonjour.msi"}
+	Install-ChocolateyInstallPackage $packageName $fileType $silentArgs $file	
 
-    $packageName = 'icloud'
-    if ($is64bit) {$file = "$filePath\iCloud64.msi"} else {$file = "$filePath\Bonjour.msi"}
-    Install-ChocolateyInstallPackage $packageName $fileType $silentArgs $file	
+	$packageName = 'icloud'
+	if ($is64bit) {$file = "$filePath\iCloud64.msi"} else {$file = "$filePath\Bonjour.msi"}
+	Install-ChocolateyInstallPackage $packageName $fileType $silentArgs $file	
 
 	
-    Write-ChocolateySuccess "$packageName"
+	Write-ChocolateySuccess "$packageName"
 } catch {
-    Write-ChocolateyFailure "$packageName" "$($_.Exception.Message)"
-    throw
+	Write-ChocolateyFailure "$packageName" "$($_.Exception.Message)"
+	throw
 }

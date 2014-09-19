@@ -1,29 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-  <metadata>
-    <id>Apple_iCloud_Control_Panel</id>
-    <title>Apple iCloud Control Panel</title>
-    <version>3.1.0.0</version>
-    <authors>Apple Inc.</authors>
-    <owners>Peter Jahn</owners>
-    <summary>Apple iCloud Control Panel</summary>
-    <description>iCloud keeps mail, contacts, and calendars up to date between your iPhone, iPad, iPod touch, Mac, and Windows PC, and lets you share calendars and task lists.
+	<metadata>
+		<id>Apple_iCloud_Control_Panel</id>
+		<title>Apple iCloud Control Panel</title>
+		<version>4.0.3.56</version>
+		<authors>Apple Inc.</authors>
+		<owners>Peter Jahn</owners>
+		<summary>Apple iCloud Control Panel</summary>
+		<description>iCloud keeps your mail, documents, contacts and calendars up-to-date between your iPhone, iPad, iPod Touch, Mac and Windows PC. 
 
-iCloud also keeps your Internet Explorer, Firefox, or Google Chrome bookmarks on Windows in sync with your Safari bookmarks on iPhone, iPad, iPod touch, and Mac. 
+With iCloud Drive, you can store any file in iCloud. Simply drag your documents into iCloud Drive folder on your PC and access them at any time, on any device.
 
-With My Photo Stream, iCloud automatically downloads the photos you take with your iPhone, iPad, or iPod touch to your PC, — and any photos you add to My Photo Stream are automatically available on your other devices set up with iCloud. 
+iCloud Photo Sharing lets you share photos and videos with just the people you choose, and invite friends to add their own photos, videos and comments. My Photo Stream automatically downloads the most recent photos from your iPhone, iPad or iPod Touch to your PC.
 
-You can also share photos and videos with just the people you choose, and invite friends to add their own photos, videos, and comments with iCloud Photo Sharing.  
-	Note: This package does not install Apple Software Update. This package does not successfully install on Windows Server because Apple does not support it. </description>
-    <projectUrl>http://support.apple.com/kb/DL1455</projectUrl>
-    <tags>Apple icloud</tags>
-    <copyright>© 2013 Apple Inc. All rights reserved.</copyright>
-    <licenseUrl>http://www.apple.com/legal/sla/docs/iCloudControlPanel.pdf</licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Apple_iCloud_Control_Panel/Apple_iCloud_Control_Panel.png</iconUrl>
-    <dependencies>
-      <dependency id="7zip.commandline" />
-    </dependencies>
-    <releaseNotes/>
-  </metadata>
+iCloud also keeps your Internet Explorer, Firefox, or Google Chrome bookmarks on Windows in sync with your Safari bookmarks.
+
+Note: This package does not install Apple Software Update. This package does not successfully install on Windows Server because Apple does not support it.</description>
+		<projectUrl>http://support.apple.com/kb/DL1455</projectUrl>
+		<tags>Apple Mac iOS iCloud</tags>
+		<copyright>© 2014 Apple Inc. All rights reserved.</copyright>
+		<licenseUrl>http://www.apple.com/legal/sla/docs/iCloudControlPanel.pdf</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Apple_iCloud_Control_Panel/Apple_iCloud_Control_Panel.png</iconUrl>
+		<dependencies>
+			<dependency id="7zip.commandline" />
+		</dependencies>
+		<releaseNotes/>
+	</metadata>
 </package>
