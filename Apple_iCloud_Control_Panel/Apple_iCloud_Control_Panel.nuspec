@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-	<metadata>
-		<id>Apple_iCloud_Control_Panel</id>
-		<title>Apple iCloud Control Panel</title>
-		<version>4.0.3.56</version>
-		<authors>Apple Inc.</authors>
-		<owners>Peter Jahn</owners>
-		<summary>Apple iCloud Control Panel</summary>
-		<description>iCloud keeps your mail, documents, contacts and calendars up-to-date between your iPhone, iPad, iPod Touch, Mac and Windows PC. 
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Apple_iCloud_Control_Panel</id>
+        <version>4.0.3.56</version>
+        <title>Apple iCloud Control Panel</title>
+        <authors>Apple Inc.</authors>
+        <owners>Peter Jahn</owners>
+        <licenseUrl>http://www.apple.com/legal/sla/docs/iCloudControlPanel.pdf</licenseUrl>
+        <projectUrl>http://support.apple.com/kb/DL1455</projectUrl>
+        <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Apple_iCloud_Control_Panel/Apple_iCloud_Control_Panel.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>iCloud keeps your mail, documents, contacts and calendars up-to-date between your iPhone, iPad, iPod Touch, Mac and Windows PC. 
 
 With iCloud Drive, you can store any file in iCloud. Simply drag your documents into iCloud Drive folder on your PC and access them at any time, on any device.
 
@@ -16,15 +19,16 @@ iCloud Photo Sharing lets you share photos and videos with just the people you c
 iCloud also keeps your Internet Explorer, Firefox, or Google Chrome bookmarks on Windows in sync with your Safari bookmarks.
 
 Note: This package does not install Apple Software Update. This package does not successfully install on Windows Server because Apple does not support it.</description>
-		<projectUrl>http://support.apple.com/kb/DL1455</projectUrl>
-		<tags>Apple Mac iOS iCloud</tags>
-		<copyright>© 2014 Apple Inc. All rights reserved.</copyright>
-		<licenseUrl>http://www.apple.com/legal/sla/docs/iCloudControlPanel.pdf</licenseUrl>
-		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Apple_iCloud_Control_Panel/Apple_iCloud_Control_Panel.png</iconUrl>
-		<dependencies>
-			<dependency id="7zip.commandline" />
-		</dependencies>
-		<releaseNotes/>
-	</metadata>
+        <summary>Apple iCloud Control Panel</summary>
+        <releaseNotes />
+        <copyright>© 2014 Apple Inc. All rights reserved.</copyright>
+        <tags>Apple Mac iOS iCloud</tags>
+        <dependencies>
+            <dependency id="7zip.commandline" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+        <file src="Apple_iCloud_Control_Panel.png" target="Apple_iCloud_Control_Panel.png" />
+    </files>
 </package>

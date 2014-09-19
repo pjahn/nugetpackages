@@ -1,4 +1,4 @@
-﻿$packageName = 'Apple_Airport_Utility'
+﻿$packageName = 'Apple_iCloud_Control_Panel'
 $url = 'http://support.apple.com/downloads/DL1455/en_US/iCloudSetup.exe'
 $url64 = $url
 $fileType = 'msi'
