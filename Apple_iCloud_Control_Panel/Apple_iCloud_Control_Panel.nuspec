@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Apple_iCloud_Control_Panel</id>
-        <version>4.0.3.56</version>
+        <version>4.0.5.20</version>
         <title>Apple iCloud Control Panel</title>
         <authors>Apple Inc.</authors>
         <owners>Peter Jahn</owners>
