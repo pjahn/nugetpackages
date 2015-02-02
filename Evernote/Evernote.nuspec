@@ -3,14 +3,14 @@
   <metadata>
     <id>Evernote</id>
     <title>Evernote</title>
-    <version>5.6.4.4632</version>
+    <version>5.8.3.6507</version>
     <authors>Evernote Corporation</authors>
     <owners>Peter Jahn</owners>
     <summary>Evernote</summary>
     <description>Evernote makes it easy to remember things big and small from your everyday life using your computer, phone, tablet and the web.</description>
     <projectUrl>http://evernote.com/evernote/</projectUrl>
     <tags>Evernote notes</tags>
-    <copyright>Copyright 2014 Evernote Corporation</copyright>
+    <copyright>Copyright 2015 Evernote Corporation</copyright>
     <licenseUrl>http://evernote.com/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Evernote/Evernote.png</iconUrl>
