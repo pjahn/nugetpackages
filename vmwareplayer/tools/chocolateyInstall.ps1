@@ -1,6 +1,6 @@
 ﻿$packageName = 'vmwareplayer'
 $installerType = 'EXE'
-$url = 'https://download3.vmware.com/software/player/file/VMware-player-6.0.3-1895310.exe'
+$url = 'https://download3.vmware.com/software/player/file/VMware-player-7.0.0-2305329.exe'
 $url64 = $url
 $silentArgs = '/s /nsr /v EULAS_AGREED=1'
 $validExitCodes = @(0)
