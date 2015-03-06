@@ -3,17 +3,20 @@
   <metadata>
     <id>vmwarevsphereclient</id>
     <title>VMware vSphere Client</title>
-    <version>5.5.0</version>
+    <version>5.5.0.1993072</version>
     <authors> VMware, Inc.</authors>
     <owners>Peter Jahn</owners>
     <summary>VMware vShere Client - Mananage virtual infrastructure</summary>
     <description>The vSphere Client is a Windows program that you can use to configure the host and to operate its virtual machines. Note: Microsoft .NET Framework 3.5 required</description>
     <projectUrl>https://www.vmware.com/products/vsphere/</projectUrl>
     <tags>vmware vsphere client virtual machine virtualization esx esxi</tags>
-    <copyright>Copyright © 2013 VMware, Inc. All rights reserved.</copyright>
+    <copyright>Copyright © 2015 VMware, Inc. All rights reserved.</copyright>
     <licenseUrl>http://www.vmware.com/download/eula/esxi50_eula.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/vmwarevsphereclient/vmwarevsphereclient.png</iconUrl>
     <releaseNotes>https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-55-release-notes.html</releaseNotes>
+	<dependencies>
+        <dependency id="dotnet3.5" version="" />
+    </dependencies>
   </metadata>
 </package>
