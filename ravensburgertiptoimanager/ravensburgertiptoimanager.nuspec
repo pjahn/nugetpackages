@@ -10,7 +10,7 @@
     <description>With the free tiptoi® Manager, you can download for each product the associated audio files. Start the download for your Mac or PC, select from the products and in a few steps the tiptoi® pen is ready for the new game, the new book, the new puzzle or the globe.</description>
     <projectUrl>http://www.ravensburger.de/kinder/tiptoi/tiptoi-manager/index.html</projectUrl>
     <tags>play usb pen children learning</tags>
-    <copyright>Ravensburger Spieleverlag GmbH</copyright>
+    <copyright>Copyright 2015 Ravensburger Spieleverlag GmbH</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/ravensburgertiptoimanager/ravensburgertiptoimanager.png</iconUrl>
   </metadata>
