@@ -3,7 +3,11 @@
   <metadata>
     <id>Evernote</id>
     <title>Evernote</title>
+<<<<<<< HEAD
     <version>5.8.5.7193</version>
+=======
+    <version>5.8.4.6870</version>
+>>>>>>> origin/master
     <authors>Evernote Corporation</authors>
     <owners>Peter Jahn</owners>
     <summary>Evernote</summary>
