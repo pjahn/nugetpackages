@@ -3,20 +3,17 @@
   <metadata>
     <id>googleearth</id>
     <title>Google Earth</title>
-    <version>7.1.2.2042</version>
+    <version>7.1.4.1529</version>
     <authors>Google Inc.</authors>
     <owners>Peter Jahn</owners>
     <summary>Google Earth</summary>
     <description>Google Earth lets you fly anywhere on Earth to view satellite imagery, maps, terrain, 3D buildings, from galaxies in outer space to the canyons of the ocean. Note: This package installs for all users and does not include the automatic update features.</description>
-    <projectUrl>http://earth.google.com</projectUrl>
+    <projectUrl>https://www.google.com/intl/en_us/earth/</projectUrl>
     <tags>google earth navigation geographic mapping</tags>
-    <copyright>©2013 Google</copyright>
+    <copyright>©2015 Google</copyright>
     <licenseUrl>https://support.google.com/earth/answer/34344?hl=en</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/GoogleEarth/google_earth.png</iconUrl>
-    <dependencies>
-      <dependency id="7zip.commandline" />
-    </dependencies>
     <releaseNotes/>
   </metadata>
 </package>
