@@ -12,6 +12,6 @@
     <tags>play usb pen children learning</tags>
     <copyright>Copyright 2015 Ravensburger Spieleverlag GmbH</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/ravensburgertiptoimanager/ravensburgertiptoimanager.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/pjahn/nugetpackages/master/ravensburgertiptoimanager/ravensburgertiptoimanager.png</iconUrl>
   </metadata>
 </package>
