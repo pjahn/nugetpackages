@@ -3,17 +3,17 @@
   <metadata>
     <id>softerraldapbrowser</id>
     <title>Softerra LDAP Browser</title>
-    <version>4.5.10625.0</version>
+    <version>4.5.13724.0</version>
     <authors>Softerra, Ltd</authors>
     <owners>Peter Jahn</owners>
     <summary>Browse LDAP directories</summary>
     <description>Softerra LDAP Browser is a lightweight version of Softerra LDAP Administrator. It supports read-only operations that do not modify LDAP directory data, e.g. browsing, search, export, etc. For complete, fully functional management of LDAP directories you need Softerra LDAP Administrator.</description>
     <projectUrl>http://www.ldapbrowser.com/info_softerra-ldap-browser.htm</projectUrl>
     <tags>ldap browser directory admin</tags>
-    <copyright>Copyright © 2013 Softerra, Ltd All Rights Reserved</copyright>
+    <copyright>Copyright © 2015 Softerra, Ltd All Rights Reserved</copyright>
     <licenseUrl>http://www.ldapadministrator.com/purchase_legal-license-agreement.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<iconUrl>https://raw.github.com/pjahn/nugetpackages/master/softerraldapbrowser/softerraldapbrowser.png</iconUrl>
-    <releaseNotes>http://www.ldapadministrator.com/resources/english/2013.1/releasenotes.html</releaseNotes>
+    <releaseNotes>http://www.ldapadministrator.com/resources/english/2015.2/releasenotes.html</releaseNotes>
   </metadata>
 </package>
