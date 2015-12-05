@@ -3,14 +3,14 @@
   <metadata>
     <id>naps2</id>
     <title>NAPS2 (Not Another PDF Scanner 2)</title>
-    <version>2.6.3</version>
+    <version>4.2.3</version>
     <authors>Ben Olden-Cooligan</authors>
     <owners>Peter Jahn</owners>
     <summary>Scan documents to PDF and other file types, as simply as possible.</summary>
     <description>naps2</description>
-    <projectUrl>http://sourceforge.net/projects/naps2/</projectUrl>
+    <projectUrl>http://www.naps2.com/</projectUrl>
     <tags>scanner pdf twain wia</tags>
-    <copyright></copyright>
+    <copyright>Copyright © Ben Olden-Cooligan 2015</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/naps2/naps2.png</iconUrl>
