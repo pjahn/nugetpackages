@@ -2,7 +2,7 @@
 $fileType = 'exe'
 $url = 'http://static.tiptoi.com/software/windows/install.exe' 
 $url64 = $url 
-$silentArgs = '/S' 
+$silentArgs = '-q' 
 $validExitCodes = @(0) 
 
 try {

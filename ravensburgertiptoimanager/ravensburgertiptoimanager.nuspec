@@ -3,12 +3,12 @@
   <metadata>
     <id>ravensburgertiptoimanager</id>
     <title>Ravensburger tiptoi Manager</title>
-    <version>2.2.1</version>
+    <version>3.0.8</version>
     <authors>Ravensburger AG</authors>
     <owners>Peter Jahn</owners>
     <summary>Ravensburger tiptoi</summary>
     <description>With the free tiptoi® Manager, you can download for each product the associated audio files. Start the download for your Mac or PC, select from the products and in a few steps the tiptoi® pen is ready for the new game, the new book, the new puzzle or the globe.</description>
-    <projectUrl>http://www.ravensburger.de/kinder/tiptoi/tiptoi-manager/index.html</projectUrl>
+    <projectUrl>https://www.tiptoi.com/de/tiptoi-manager/index.html</projectUrl>
     <tags>play usb pen children learning</tags>
     <copyright>Copyright 2015 Ravensburger Spieleverlag GmbH</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
