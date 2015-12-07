@@ -7,7 +7,9 @@
     <authors>Irfan Skiljan</authors>
     <owners>Peter Jahn</owners>
     <summary>Plugins for IrfanView</summary>
-    <description>All plugins for IrfanView in one package.</description>
+    <description>All plugins for IrfanView in one package.
+	For x86 and x64 platform.
+	</description>
     <projectUrl>http://www.irfanview.com/plugins.htm</projectUrl>
     <tags>image photo viewer plugin</tags>
     <copyright>Copyright ©2015 by Irfan Skiljan, Austria</copyright>
