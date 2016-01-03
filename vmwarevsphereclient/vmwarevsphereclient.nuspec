@@ -4,7 +4,7 @@
     <id>vmwarevsphereclient</id>
     <title>VMware vSphere Client</title>
     <version>6.0.0.2502222</version>
-    <authors> VMware, Inc.</authors>
+    <authors>VMware, Inc.</authors>
     <owners>Peter Jahn</owners>
     <summary>VMware vShere Client - Mananage virtual infrastructure</summary>
     <description>The vSphere Client is a Windows program that you can use to configure the host and to operate its virtual machines. Note: Microsoft .NET Framework 3.5 is required</description>
