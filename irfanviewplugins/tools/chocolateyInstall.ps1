@@ -1,7 +1,7 @@
 $packageName = 'irfanviewplugins'
 $installerType = 'exe'
 $silentArgs = "/silent"
-$urlArray = @('http://www.fosshub.com/genLink/IrfanView/irfanview_plugins_441_setup.exe','http://www.fosshub.com/genLink/IrfanView/irfanview_plugins_x64_441_setup.exe')
+$urlArray = @('http://www.fosshub.com/genLink/IrfanView/irfanview_plugins_442_setup.exe','http://www.fosshub.com/genLink/IrfanView/irfanview_plugins_x64_442_setup.exe')
 $url = $urlArray[0]
 $url64 = $urlArray[1]
 $validExitCodes = @(0)
