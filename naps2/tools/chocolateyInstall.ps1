@@ -2,7 +2,7 @@
 
 $packageName = 'naps2' 
 $installerType = 'MSI' 
-$url = 'https://github.com/cyanfish/naps2/releases/download/v4.6.1/naps2-4.6.1-setup.msi' 
+$url = 'https://github.com/cyanfish/naps2/releases/download/v4.7.2/naps2-4.7.2-setup.msi' 
 $url64 = $url 
 $silentArgs = '/quiet /norestart' 
 $validExitCodes = @(0) 
