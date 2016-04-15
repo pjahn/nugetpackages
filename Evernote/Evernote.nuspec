@@ -3,7 +3,7 @@
   <metadata>
     <id>Evernote</id>
     <title>Evernote</title>
-    <version>5.9.6.9494</version>
+    <version>5.9.9.9915</version>
     <authors>Evernote Corporation</authors>
     <owners>Peter Jahn</owners>
     <summary>A cross-platform, freemium app designed for note taking, organizing, and archiving.</summary>
@@ -17,7 +17,7 @@ DISCUSS: Connect your work with the people who help you get it done. Communicate
 PRESENT: Have fast, effective meetings by presenting your work as it evolves. No need to build slides, just one click and your notes are transformed into a beautiful screen-friendly layout.</description>
     <projectUrl>http://evernote.com/evernote/</projectUrl>
     <tags>Evernote notes</tags>
-    <copyright>Copyright 2015 Evernote Corporation</copyright>
+    <copyright>Copyright 2016 Evernote Corporation</copyright>
     <licenseUrl>http://evernote.com/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/pjahn/nugetpackages/master/Evernote/Evernote.png</iconUrl>
